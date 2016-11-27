@@ -48,6 +48,7 @@ public class Main {
 		displayGraphics();
 		
 		jf.setVisible(true);
+		System.out.println("test");
 	}
 	
 	void displayGraphics() {
