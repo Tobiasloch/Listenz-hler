@@ -48,8 +48,6 @@ public class Main {
 		displayGraphics();
 		
 		jf.setVisible(true);
-		System.out.println("Hello WOrdl!");
-		System.out.println("Another Hello World!");
 	}
 	
 	void displayGraphics() {
@@ -68,7 +66,7 @@ public class Main {
 		path.setBounds(10, 200, 250, 30);
 		jf.add(path);
 		
-		acceptButton = new JButton("Start");
+		acceptButton = new JButton("gaartssa");
 		acceptButton.addActionListener(new AListener());
 		acceptButton.setBounds(280, 235, 100, 30);
 		jf.add(acceptButton);
