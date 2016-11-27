@@ -49,6 +49,7 @@ public class Main {
 		
 		jf.setVisible(true);
 		System.out.println("Hello WOrdl!");
+		System.out.println("Another Hello World!");
 	}
 	
 	void displayGraphics() {
